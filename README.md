@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hassan 👋
+# Hi, I'm Hassan Khan 👋
 
 ### Software Developer · Web Applications · AI & Developer Tools
 
@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+ideas+into+working+software;Exploring+AI+and+developer+tools;Learning+by+building+real+projects" alt="Animated typing introduction" />
 </a>
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-HassanDev--git-181717?style=for-the-badge&logo=github)](https://github.com/HassanDev-git)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hkdeveloper.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hkdeveloper.tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-HassanDev--git-181717?style=for-the-badge&logo=github)](https://github.com/HassanDev-git)
 
 </div>
 
@@ -38,6 +39,8 @@ I build practical software projects across web applications, AI, and developer t
 <div align="center">
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/)
 
 </div>
@@ -69,7 +72,7 @@ The snake animation is generated automatically from my GitHub contribution graph
 
 ## Let's connect
 
-Have an idea, collaboration, or feedback? Feel free to explore my repositories or reach out through [GitHub](https://github.com/HassanDev-git).
+Have an idea, collaboration, or feedback? Visit my [portfolio](https://hkdeveloper.tech/) or reach out through [GitHub](https://github.com/HassanDev-git).
 
 <div align="center">
 
