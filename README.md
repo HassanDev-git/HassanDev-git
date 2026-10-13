@@ -21,7 +21,7 @@
     <td width="30%" align="center">
       <b>PROFILE SNAPSHOT</b><br/>
       <img src="https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed" alt="Live GitHub followers" />
-      <img src="https://img.shields.io/github/repos/HassanDev-git?label=Public%20repos&style=flat&color=08b9ed" alt="Live public repository count" /><br/>
+      <img src="https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat" alt="Live public repository count" /><br/>
       <a href="https://github.com/HassanDev-git?tab=repositories">Explore repositories →</a>
     </td>
   </tr>
