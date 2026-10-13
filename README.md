@@ -68,8 +68,6 @@ A luxury fashion storefront with responsive layouts, dark mode, product browsing
 
 [![GitHub streak](https://streak-stats.demolab.com?user=HassanDev-git&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanDev-git&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-
 </div>
 
 ## Contribution snake
