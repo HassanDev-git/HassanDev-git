@@ -1,6 +1,12 @@
 name: Update contribution snake
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/profile-snake.yml
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
