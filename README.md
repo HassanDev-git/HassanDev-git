@@ -8,9 +8,9 @@
 
 </div>
 
-| **HASSAN KHAN** · Developer, Pakistan 🇵🇰 | **WHAT I BUILD** | **PROFILE SNAPSHOT** |
-|:--|:--|:--|
-| AI application developer · Full-stack products · Systems & language design | [![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) · [![Public repositories](https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories) | [Explore my repositories →](https://github.com/HassanDev-git?tab=repositories) |
+| **PROFILE** | **SPECIALITY** | **CONNECT** |
+|:--:|:--:|:--:|
+| **Hassan Khan** · Developer · 🇵🇰 | AI applications · Full-stack products · Systems design | [![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) · [![Repositories](https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories) |
 
 ## About Me
 
