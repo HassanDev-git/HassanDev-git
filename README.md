@@ -8,9 +8,18 @@
 
 </div>
 
-**Hassan Khan** · Developer from Pakistan 🇵🇰  
-AI applications · Full-stack products · Systems design  
-[![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) &nbsp; [![Public repositories](https://img.shields.io/badge/Public%20repositories-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories)
+<h2 align="center">Hassan Khan</h2>
+
+<p align="center">
+  <strong>AI Application Developer</strong> &nbsp;·&nbsp; <strong>Full-Stack Developer</strong><br />
+  Building useful digital products from Pakistan 🇵🇰
+</p>
+
+<p align="center">
+  <a href="https://github.com/HassanDev-git"><img src="https://img.shields.io/github/followers/HassanDev-git?label=FOLLOWERS&style=for-the-badge&color=0b84f3&labelColor=0b1220" alt="GitHub followers" /></a>
+  &nbsp;
+  <a href="https://github.com/HassanDev-git?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public%20Repositories-0b84f3?style=for-the-badge&labelColor=0b1220" alt="Explore public repositories" /></a>
+</p>
 
 ## 👋 About Me
 
@@ -18,16 +27,20 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 **⌘ Clean Code** &nbsp; · &nbsp; **✦ Creative Solutions** &nbsp; · &nbsp; **↗ Always Learning**
 
-### 🔗 Quick Links
+### 🌐 Find Me Online
 
-🌐 [Portfolio](https://hkdeveloper.tech) &nbsp; · &nbsp; 💻 [GitHub](https://github.com/HassanDev-git) &nbsp; · &nbsp; ✉️ [Email](mailto:hkdev@hkdeveloper.tech)
+<p>
+  <a href="https://hkdeveloper.tech"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0b1220?style=for-the-badge&logo=googlechrome&logoColor=36d9ff" alt="Visit portfolio" /></a>
+  <a href="https://github.com/HassanDev-git"><img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-0b1220?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" /></a>
+  <a href="mailto:hkdev@hkdeveloper.tech"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-0b1220?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email Hassan" /></a>
+</p>
 
 ### 🎯 Current Focus
 
-- AI applications and provider integrations
-- Full-stack products with polished user experiences
-- Programming languages, compilers, and runtimes
-- Building HK-DEVELOPER
+- Building AI applications and practical provider integrations
+- Shaping full-stack products with clear, polished user experiences
+- Exploring programming languages, compilers, and runtimes
+- Growing the HK-DEVELOPER platform
 
 ## ⚙️ Tech Stack & Tools
 
@@ -81,7 +94,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 ## 📈 GitHub Activity
 
 <p align="center">
-  This contribution animation follows my public GitHub contribution graph and is refreshed automatically by GitHub Actions.
+  This animation is generated from my public GitHub contribution graph. GitHub Actions refreshes it every 15 minutes; scheduled jobs can be delayed by GitHub, so it is frequent but not instant.
 </p>
 
 <div align="center">
