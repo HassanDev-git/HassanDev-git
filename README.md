@@ -8,27 +8,9 @@
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="34%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/205419396?v=4" width="76" alt="Hassan Khan GitHub avatar" /><br/>
-      <b>HassanDev-git</b><br/>
-      Developer · Pakistan 🇵🇰
-    </td>
-    <td width="36%" align="center">
-      <b>WHAT I BUILD</b><br/>
-      AI applications<br/>
-      Full-stack products<br/>
-      Systems &amp; language design
-    </td>
-    <td width="30%" align="center">
-      <b>PROFILE SNAPSHOT</b><br/>
-      <img src="https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed" alt="Live GitHub followers" />
-      <img src="https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat" alt="Public repository count: 8" /><br/>
-      <a href="https://github.com/HassanDev-git?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
-</table>
+| **HASSAN KHAN** · Developer, Pakistan 🇵🇰 | **WHAT I BUILD** | **PROFILE SNAPSHOT** |
+|:--|:--|:--|
+| AI application developer · Full-stack products · Systems & language design | [![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) · [![Public repositories](https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories) | [Explore my repositories →](https://github.com/HassanDev-git?tab=repositories) |
 
 ## About Me
 
@@ -36,35 +18,15 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 **⌘ Clean Code** &nbsp; · &nbsp; **✦ Creative Solutions** &nbsp; · &nbsp; **↗ Always Learning**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### Quick Links
-
-- 🌐 [Portfolio](https://hkdeveloper.tech)
-- 💻 [GitHub](https://github.com/HassanDev-git)
-- ✉️ [Email](mailto:hkdev@hkdeveloper.tech)
-
-</td>
-<td width="50%" valign="top">
-
-### Current Focus
-
-- AI application development and provider integrations
-- Full-stack product experiences
-- Programming languages, compilers, and runtimes
-- Building and refining HK-DEVELOPER
-
-</td>
-</tr>
-</table>
+| **QUICK LINKS** | **CURRENT FOCUS** |
+|:--|:--|
+| 🌐 [Portfolio](https://hkdeveloper.tech)  ·  💻 [GitHub](https://github.com/HassanDev-git)  ·  ✉️ [Email](mailto:hkdev@hkdeveloper.tech) | AI applications & provider integrations  ·  Full-stack product experiences  ·  Programming languages, compilers & runtimes  ·  HK-DEVELOPER |
 
 ## Tech Stack & Tools
 
 <div align="center">
 
-[![Technology icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,html,css,git,github,docker,vscode,figma&perline=7)](https://skillicons.dev)
+[![Technology icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,html,css,git,github,docker,vscode,figma&perline=14)](https://skillicons.dev)
 
 **Also exploring:** AI APIs · Express · Vite · Tailwind CSS · Firebase · Socket.IO · Framer Motion · Zig
 
