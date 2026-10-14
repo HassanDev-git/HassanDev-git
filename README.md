@@ -8,7 +8,7 @@
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="34%" align="center">
       <img src="https://avatars.githubusercontent.com/u/205419396?v=4" width="76" alt="Hassan Khan GitHub avatar" /><br/>
@@ -16,12 +16,15 @@
       Developer · Pakistan 🇵🇰
     </td>
     <td width="36%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=800&color=22D3EE&center=true&vCenter=true&width=370&lines=AI+Application+Developer;Full-Stack+Developer;Building+HK-DEVELOPER" alt="Rotating developer roles" />
+      <b>WHAT I BUILD</b><br/>
+      AI applications<br/>
+      Full-stack products<br/>
+      Systems &amp; language design
     </td>
     <td width="30%" align="center">
       <b>PROFILE SNAPSHOT</b><br/>
       <img src="https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed" alt="Live GitHub followers" />
-      <img src="https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat" alt="Live public repository count" /><br/>
+      <img src="https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat" alt="Public repository count: 8" /><br/>
       <a href="https://github.com/HassanDev-git?tab=repositories">Explore repositories →</a>
     </td>
   </tr>
@@ -33,7 +36,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 **⌘ Clean Code** &nbsp; · &nbsp; **✦ Creative Solutions** &nbsp; · &nbsp; **↗ Always Learning**
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
@@ -69,10 +72,10 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 ## Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.jpg" alt="HKD programming language project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.jpg?v=2" alt="HKD programming language project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/HKD">HKD — Language & Runtime</a></h3>
       <p>A statically typed systems language and developer platform exploring deterministic compilation, an SSA compiler pipeline, a stack VM, and a native Zig runtime.</p>
       <sub>Zig · Compiler Design · Systems</sub>
@@ -106,20 +109,11 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 </div>
 
-## GitHub Stats & Activity
+## GitHub Activity
 
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=HassanDev-git&show_icons=true&rank_icon=github&hide_border=true&bg_color=050d1a&title_color=22d3ee&text_color=d9eaff&icon_color=38bdf8" alt="GitHub statistics for HassanDev-git" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanDev-git&layout=compact&hide_border=true&bg_color=050d1a&title_color=22d3ee&text_color=d9eaff" alt="Most used languages from public repositories" />
-
-[![GitHub streak](https://streak-stats.demolab.com?user=HassanDev-git&hide_border=true&background=050d1a&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&sideLabels=d9eaff&dates=8ba7c4)](https://github.com/HassanDev-git)
-
-</div>
-
-### Contribution Snake
-
-This animation is generated from my public GitHub contribution graph and refreshed by GitHub Actions.
+<p align="center">
+  This contribution animation follows my public GitHub contribution graph and is refreshed automatically by GitHub Actions.
+</p>
 
 <div align="center">
 
@@ -133,9 +127,9 @@ This animation is generated from my public GitHub contribution graph and refresh
 
 ## Project Journey
 
-- **Feb 2026** — Published LUMIERE, a fashion e-commerce experience.
-- **Aug 2026** — Shared projects in recipe discovery and AI applications.
-- **Sep 2026** — Started publishing the HKD language and runtime project.
+- **Feb 2026** — Began the LUMIERE fashion e-commerce project.
+- **Aug 2026** — Started public projects in recipe discovery and AI applications.
+- **Sep 2026** — Began publishing the HKD language and runtime project.
 
 > “Discipline turns ideas into things people can use.”
 
