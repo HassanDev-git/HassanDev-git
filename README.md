@@ -75,7 +75,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.jpg?v=2" alt="HKD programming language project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.jpg?v=3" alt="HKD programming language project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/HKD">HKD — Language & Runtime</a></h3>
       <p>A statically typed systems language and developer platform exploring deterministic compilation, an SSA compiler pipeline, a stack VM, and a native Zig runtime.</p>
       <sub>Zig · Compiler Design · Systems</sub>
