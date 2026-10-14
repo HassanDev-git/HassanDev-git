@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/hk-developer-hero-v2.svg" alt="Animated HK-DEVELOPER hero banner for Hassan Khan" width="100%" />
+<img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/hero-banner.jpg" alt="Custom Hassan Khan hero banner created from my supplied artwork" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=36D9FF&center=true&vCenter=true&width=720&lines=AI+Application+Developer;Full-Stack+Developer;Building+HK-DEVELOPER;Build+%E2%80%A2+Learn+%E2%80%A2+Grow" alt="Animated role text: AI application developer, full-stack developer, building HK-DEVELOPER" />
@@ -72,13 +72,13 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.svg" alt="HKD programming language project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/HKD"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hkd.jpg" alt="HKD programming language project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/HKD">HKD — Language & Runtime</a></h3>
       <p>A statically typed systems language and developer platform exploring deterministic compilation, an SSA compiler pipeline, a stack VM, and a native Zig runtime.</p>
       <sub>Zig · Compiler Design · Systems</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/HK-Ai"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hk-ai.svg" alt="HK-AI workspace project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/HK-Ai"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-hk-ai.jpg" alt="HK-AI workspace project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/HK-Ai">HK-Ai — AI Workspace</a></h3>
       <p>A full-stack AI workspace for chat, model discovery, research, and user-managed provider connections, with an optional WhatsApp bridge.</p>
       <sub>React · Vite · Express · Socket.IO · Firebase</sub>
@@ -86,13 +86,13 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/What-Should-Eat-Website-Design"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-what-should-i-eat.svg" alt="What Should I Eat recipe discovery project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/What-Should-Eat-Website-Design"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-what-should-i-eat.jpg" alt="What Should I Eat recipe discovery project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/What-Should-Eat-Website-Design">What Should I Eat?</a></h3>
       <p>Recipe discovery that helps turn ingredients on hand into meal ideas, with a responsive interface and polished motion.</p>
       <sub>React · TypeScript · Tailwind CSS · Framer Motion</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/HassanDev-git/Lumiere-E-commerce"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-lumiere.svg" alt="LUMIERE fashion commerce project cover" width="100%" /></a>
+      <a href="https://github.com/HassanDev-git/Lumiere-E-commerce"><img src="https://raw.githubusercontent.com/HassanDev-git/HassanDev-git/main/assets/project-lumiere.jpg" alt="LUMIERE fashion commerce project cover" width="100%" /></a>
       <h3><a href="https://github.com/HassanDev-git/Lumiere-E-commerce">LUMIERE — Fashion Commerce</a></h3>
       <p>A luxury fashion storefront featuring responsive product browsing, dark mode, search, wishlist, cart, and checkout flows.</p>
       <sub>HTML · Tailwind CSS · JavaScript · E-commerce</sub>
