@@ -8,9 +8,9 @@
 
 </div>
 
-| **PROFILE** | **SPECIALITY** | **CONNECT** |
-|:--:|:--:|:--:|
-| **Hassan Khan** · Developer · 🇵🇰 | AI applications · Full-stack products · Systems design | [![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) · [![Repositories](https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories) |
+**Hassan Khan** · Developer from Pakistan 🇵🇰  
+AI applications · Full-stack products · Systems design  
+[![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) &nbsp; [![Public repositories](https://img.shields.io/badge/Public%20repositories-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories)
 
 ## 👋 About Me
 
@@ -18,9 +18,16 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 **⌘ Clean Code** &nbsp; · &nbsp; **✦ Creative Solutions** &nbsp; · &nbsp; **↗ Always Learning**
 
-| **QUICK LINKS** | **CURRENT FOCUS** |
-|:--|:--|
-| 🌐 [Portfolio](https://hkdeveloper.tech)<br>💻 [GitHub](https://github.com/HassanDev-git)<br>✉️ [Email](mailto:hkdev@hkdeveloper.tech) | AI applications & provider integrations<br>Full-stack product experiences<br>Programming languages, compilers & runtimes<br>Building HK-DEVELOPER |
+### 🔗 Quick Links
+
+🌐 [Portfolio](https://hkdeveloper.tech) &nbsp; · &nbsp; 💻 [GitHub](https://github.com/HassanDev-git) &nbsp; · &nbsp; ✉️ [Email](mailto:hkdev@hkdeveloper.tech)
+
+### 🎯 Current Focus
+
+- AI applications and provider integrations
+- Full-stack products with polished user experiences
+- Programming languages, compilers, and runtimes
+- Building HK-DEVELOPER
 
 ## ⚙️ Tech Stack & Tools
 
