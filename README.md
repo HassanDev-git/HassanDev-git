@@ -12,7 +12,7 @@
 |:--:|:--:|:--:|
 | **Hassan Khan** · Developer · 🇵🇰 | AI applications · Full-stack products · Systems design | [![Followers](https://img.shields.io/github/followers/HassanDev-git?label=Followers&style=flat&color=08b9ed)](https://github.com/HassanDev-git) · [![Repositories](https://img.shields.io/badge/Public%20repos-8-08b9ed?style=flat)](https://github.com/HassanDev-git?tab=repositories) |
 
-## About Me
+## 👋 About Me
 
 I’m **Hassan Khan**, a developer from Pakistan who builds modern web applications and explores practical ways to bring AI into useful products. I enjoy learning new technologies, shaping clear user experiences, and turning ideas into working software.
 
@@ -20,9 +20,9 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 | **QUICK LINKS** | **CURRENT FOCUS** |
 |:--|:--|
-| 🌐 [Portfolio](https://hkdeveloper.tech)  ·  💻 [GitHub](https://github.com/HassanDev-git)  ·  ✉️ [Email](mailto:hkdev@hkdeveloper.tech) | AI applications & provider integrations  ·  Full-stack product experiences  ·  Programming languages, compilers & runtimes  ·  HK-DEVELOPER |
+| 🌐 [Portfolio](https://hkdeveloper.tech)<br>💻 [GitHub](https://github.com/HassanDev-git)<br>✉️ [Email](mailto:hkdev@hkdeveloper.tech) | AI applications & provider integrations<br>Full-stack product experiences<br>Programming languages, compilers & runtimes<br>Building HK-DEVELOPER |
 
-## Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
@@ -32,7 +32,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 </div>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
@@ -71,7 +71,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 </div>
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   This contribution animation follows my public GitHub contribution graph and is refreshed automatically by GitHub Actions.
@@ -87,7 +87,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 </div>
 
-## Project Journey
+## 🧭 Project Journey
 
 - **Feb 2026** — Began the LUMIERE fashion e-commerce project.
 - **Aug 2026** — Started public projects in recipe discovery and AI applications.
@@ -95,7 +95,7 @@ I’m **Hassan Khan**, a developer from Pakistan who builds modern web applicati
 
 > “Discipline turns ideas into things people can use.”
 
-## Let’s Connect
+## 🤝 Let’s Connect
 
 I’m open to thoughtful feedback, interesting ideas, and collaboration.
 
